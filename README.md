@@ -1,4 +1,4 @@
-* Shop​ ​Support​ ​API coding challenge project
+# Shop​ ​Support​ ​API coding challenge project
 
 There are times when shops want to sell fonts that require a license key to use. One pain point that
 exists: they have to manually message customers through Creative Market after every purchase to
